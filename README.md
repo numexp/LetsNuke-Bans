@@ -1,4 +1,2 @@
 # LetsNuke-Bans
-Simplified source code.
-
-# This will be updated within 12 hours of this post. :)
+You will need a mapper and disk registry for this to work but that should be hard, enjoy.
